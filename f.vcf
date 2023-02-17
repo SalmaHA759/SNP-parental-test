@@ -1,0 +1,20 @@
+##fileformat=VCFv4.2
+##FORMAT=<ID=GT,Number=1,Type=Integer,Description="Genotype">
+##FORMAT=<ID=GP,Number=G,Type=Float,Description="Genotype Probabilities">
+##FORMAT=<ID=PL,Number=G,Type=Float,Description="Phred-scaled Genotype Likelihoods">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER
+1	1291018	rs00012	G	A	.	PASS
+1	2300608 rs00123 C	T	.	PASS
+1	2301308 rs01234 T	G	.	PASS
+1	1023018	rs12345	G	A	.	PASS
+1	2450608 rs54633 C	T	.	PASS
+2	0301308 rs21352 T	G	.	PASS
+2	2991018	rs67452	G	A	.	PASS
+2	0900621 rs34342 C	T	.	PASS
+2	2324308 rs43763 T	G	.	PASS
+3	4536318	rs54783	G	A	.	PASS
+3	1334608 rs12743 C	T	.	PASS
+3	2365108 rs54122 T	G	.	PASS
+3	0476218	rs54621	G	A	.	PASS
+3	9423461 rs12433 C	T	.	PASS
+4	4351543 rs32456 T	G	.	PASS
